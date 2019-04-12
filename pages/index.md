@@ -2,7 +2,7 @@
 
 Saber is a static website generator for building blazing fast, modern websites with Vue.js. It's simple to use, blog-aware, and fully extensible, you can create pages using the data you want, e.g. local filesystem, APIs, SaaS services, headless CMS.
 
-Saber by default load pages from your filesystem, so you can start by populating some `.vue` or `.md` files in the `./pages` folder, and they will automatically become web pages, like this file.
+Saber by default loads pages from your filesystem, so you can start by populating some `.vue` or `.md` files in the `./pages` folder, and they will automatically become web pages, like this file.
 
 You can even use Vue in Markdown like this:
 
