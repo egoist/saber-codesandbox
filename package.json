@@ -1,0 +1,14 @@
+{
+  "name": "saber-sandbox",
+  "version": "1.0.0",
+  "description": "Simple Saber Sandbox",
+  "scripts": {
+    "start": "saber --port 8080",
+    "dev": "npm run start",
+    "build": "saber build"
+  },
+  "dependencies": {
+    "saber-highlighter-prism": "0.2.0",
+    "saber": "latest"
+  }
+}
