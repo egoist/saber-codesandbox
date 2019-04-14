@@ -14,7 +14,7 @@ Layouts are Vue components that wrap around your page. They allow you to have th
 
 You can use page attributes to set layout, in a Markdown page, page attributes are represented as front matter:
 
-```markdown
+```markdown {highlightLines:[2]}
 ---
 layout: page
 ---
