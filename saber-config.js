@@ -1,5 +1,7 @@
 module.exports = {
-  markdown: {
-    highlighter: "prism"
-  }
+  plugins: [
+    {
+      resolve: 'saber-plugin-prismjs'
+    }
+  ]
 };

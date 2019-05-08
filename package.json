@@ -8,7 +8,8 @@
     "build": "saber build"
   },
   "dependencies": {
-    "saber-highlighter-prism": "0.2.0",
-    "saber": "latest"
+    "prismjs": "^1.16.0",
+    "saber-plugin-prismjs": "^0.2.0",
+    "saber": "^0.5.0"
   }
 }
