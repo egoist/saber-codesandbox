@@ -10,6 +10,12 @@ body {
   color: #ffffff66;
 }
 
+:not(pre) code {
+  background: #eee;
+  padding: 2px 3px;
+  border-radius: 3px;
+}
+
 p {
   margin: 20px 0;
 }
