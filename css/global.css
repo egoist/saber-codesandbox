@@ -1,3 +1,19 @@
 body {
   font-family: Roboto, sans-serif;
 }
+
+.saber-highlight {
+  background: #282c34;
+}
+
+.saber-highlight:before {
+  color: #ffffff66;
+}
+
+p {
+  margin: 20px 0;
+}
+
+a {
+  color: blue;
+}

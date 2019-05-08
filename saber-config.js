@@ -4,4 +4,4 @@ module.exports = {
       resolve: 'saber-plugin-prismjs'
     }
   ]
-};
+}
