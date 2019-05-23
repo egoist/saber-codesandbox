@@ -7,7 +7,7 @@ body {
 }
 
 .saber-highlight:before {
-  color: #ffffff;
+  color: rgba(255, 255, 255, 0.4);
 }
 
 :not(pre) code {
