@@ -22,6 +22,11 @@ layout: page
 This page uses the `page` layout.
 ```
 
+```python {highlightLines:[1]}
+for i in range(0,5):
+  print(i)
+```
+
 Check out the [About](./about.md) page which uses the `page` layout.
 
 ## Learn More
